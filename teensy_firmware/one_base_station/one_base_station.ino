@@ -47,6 +47,7 @@ if (trackA.fresh_sync_pulse==1) {
   Serial.println(trackA.y);
   Serial.println(trackB.x);
   Serial.println(trackB.y);
+  Serial.println(-1);
 }
 
 
