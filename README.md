@@ -1,6 +1,5 @@
 # lighthouse_tracking
 
-H_tracker.cpp - Simple Library for valve lighthouse tracking.
 
 This is code for tracking lighthouse receivers with a teensy 3.6
 
